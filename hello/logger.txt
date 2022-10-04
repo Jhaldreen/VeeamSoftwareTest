@@ -1,0 +1,8 @@
+INFO:dirsync:dirsync finished in 0.08 seconds.
+INFO:dirsync:298 directories parsed, 0 files copied
+INFO:dirsync:
+INFO:root:copy succesfull
+INFO:dirsync:dirsync finished in 0.07 seconds.
+INFO:dirsync:246 directories parsed, 0 files copied
+INFO:dirsync:
+INFO:root:copy succesfull

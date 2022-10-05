@@ -1,8 +1,0 @@
-buenos dias
-
-
-#Important to install
-
-pip install pyinstaller
-
-pip install dirsync

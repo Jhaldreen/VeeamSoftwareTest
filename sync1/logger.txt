@@ -1,0 +1,89 @@
+INFO:dirsync:dirsync finished in 0.08 seconds.
+INFO:dirsync:298 directories parsed, 0 files copied
+INFO:dirsync:
+INFO:root:copy succesfull
+INFO:dirsync:dirsync finished in 0.07 seconds.
+INFO:dirsync:246 directories parsed, 0 files copied
+INFO:dirsync:
+INFO:root:copy succesfull
+INFO:dirsync:dirsync finished in 0.07 seconds.
+INFO:dirsync:256 directories parsed, 0 files copied
+INFO:dirsync:
+INFO:root:copy succesfull
+INFO:dirsync:dirsync finished in 0.07 seconds.
+INFO:dirsync:256 directories parsed, 0 files copied
+INFO:dirsync:
+INFO:root:copy succesfull
+INFO:dirsync:dirsync finished in 0.07 seconds.
+INFO:dirsync:256 directories parsed, 0 files copied
+INFO:dirsync:
+INFO:root:copy succesfull
+INFO:dirsync:dirsync finished in 0.07 seconds.
+INFO:dirsync:256 directories parsed, 0 files copied
+INFO:dirsync:
+INFO:root:copy succesfull
+INFO:dirsync:dirsync finished in 0.07 seconds.
+INFO:dirsync:256 directories parsed, 0 files copied
+INFO:dirsync:
+INFO:root:copy succesfull
+INFO:dirsync:dirsync finished in 0.07 seconds.
+INFO:dirsync:256 directories parsed, 0 files copied
+INFO:dirsync:
+INFO:root:copy succesfull
+INFO:dirsync:dirsync finished in 0.07 seconds.
+INFO:dirsync:256 directories parsed, 0 files copied
+INFO:dirsync:
+INFO:root:copy succesfull
+INFO:dirsync:dirsync finished in 0.07 seconds.
+INFO:dirsync:256 directories parsed, 0 files copied
+INFO:dirsync:
+INFO:root:copy succesfull
+INFO:dirsync:dirsync finished in 0.07 seconds.
+INFO:dirsync:256 directories parsed, 0 files copied
+INFO:dirsync:
+INFO:root:copy succesfull
+INFO:dirsync:dirsync finished in 0.07 seconds.
+INFO:dirsync:256 directories parsed, 0 files copied
+INFO:dirsync:
+INFO:root:copy succesfull
+INFO:dirsync:dirsync finished in 0.09 seconds.
+INFO:dirsync:365 directories parsed, 0 files copied
+INFO:dirsync:
+INFO:root:copy succesfull
+INFO:dirsync:dirsync finished in 0.10 seconds.
+INFO:dirsync:365 directories parsed, 0 files copied
+INFO:dirsync:
+INFO:root:copy succesfull
+INFO:dirsync:dirsync finished in 0.09 seconds.
+INFO:dirsync:365 directories parsed, 0 files copied
+INFO:dirsync:
+INFO:root:copy succesfull
+INFO:dirsync:dirsync finished in 0.09 seconds.
+INFO:dirsync:365 directories parsed, 0 files copied
+INFO:dirsync:
+INFO:root:copy succesfull
+INFO:dirsync:dirsync finished in 0.10 seconds.
+INFO:dirsync:365 directories parsed, 0 files copied
+INFO:dirsync:
+INFO:root:copy succesfull
+INFO:root:Folder Created
+INFO:dirsync:dirsync finished in 0.14 seconds.
+INFO:dirsync:366 directories parsed, 0 files copied
+INFO:dirsync:
+INFO:root:copy succesfull
+INFO:dirsync:dirsync finished in 0.09 seconds.
+INFO:dirsync:366 directories parsed, 0 files copied
+INFO:dirsync:
+INFO:root:copy succesfull
+INFO:dirsync:dirsync finished in 0.09 seconds.
+INFO:dirsync:366 directories parsed, 0 files copied
+INFO:dirsync:
+INFO:root:copy succesfull
+INFO:dirsync:dirsync finished in 0.10 seconds.
+INFO:dirsync:366 directories parsed, 0 files copied
+INFO:dirsync:
+INFO:root:copy succesfull
+INFO:dirsync:dirsync finished in 0.10 seconds.
+INFO:dirsync:366 directories parsed, 0 files copied
+INFO:dirsync:
+INFO:root:copy succesfull

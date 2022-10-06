@@ -6,22 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="717bbb89-7e69-40c7-a191-4974f6ccd568" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/future/backports/test/support.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/future/backports/test/support.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/future/types/newlist.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/future/types/newlist.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/future/types/newobject.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/future/types/newobject.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/past/builtins/noniterators.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/past/builtins/noniterators.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/pip/_internal/utils/misc.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/pip/_internal/utils/misc.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/pip/_vendor/pyparsing.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/pip/_vendor/pyparsing.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/pip/_vendor/webencodings/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/pip/_vendor/webencodings/tests.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/pkg_resources/_vendor/pyparsing.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/pkg_resources/_vendor/pyparsing.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/setuptools/_distutils/command/install.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/setuptools/_distutils/command/install.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/setuptools/_distutils/text_file.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/setuptools/_distutils/text_file.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/setuptools/_vendor/pyparsing.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/setuptools/_vendor/pyparsing.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/hello.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/hello.txt" beforeDir="false" afterPath="$PROJECT_DIR$/hello.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hello/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hello/copy.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hello/logger.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
